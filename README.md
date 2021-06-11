@@ -9,16 +9,19 @@ Given a signed 32-bit integer `x`, return `x` with its digits reversed. If rever
 ```py
 Input: x = 123
 Output: 321
-Example 2:
-``````py
+```
+**Example 2:**
+```py
 Input: x = -123
 Output: -321
-Example 3:
-``````py
+```
+**Example 3:**
+```py
 Input: x = 120
 Output: 21
-Example 4:
-``````py
+```
+**Example 4:**
+```py
 Input: x = 0
 Output: 0
 ``` 
