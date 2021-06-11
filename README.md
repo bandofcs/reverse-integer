@@ -28,4 +28,4 @@ Output: 0
 
 **Constraints:**
 
-* `-2<sup>31</sup> <= x <= 2<sup>31</sup> - 1`
+* <code>-2<sup>31</sup> <= x <= 2<sup>31</sup> - 1</code>
